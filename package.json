@@ -2,7 +2,7 @@
   "name": "raspi001",
   "version": "0.0.0",
   "private": true,
-  "author": "naohiro2g@gmail.com",
+  "author": "Naohiro Tsuji <naohiro2g@gmail.com>",
   "description": "Robot#001 on Raspberry Pi 3",
   "dependencies": {
     "hubot": "^2.19.0",
